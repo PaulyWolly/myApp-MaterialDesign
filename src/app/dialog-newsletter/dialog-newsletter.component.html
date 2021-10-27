@@ -1,0 +1,11 @@
+<mat-dialog-content>
+  <h2>You have been successfully subscribed to our newsletter!</h2>
+
+  <p>Look for an email letting you know When our next article will be sent out.
+    We appreciate your selecting our Newsletter.</p>
+</mat-dialog-content>
+
+<mat-dialog-actions align="end">
+  <button (click)="setCheckboxFalse()" checked="false" mat-button mat-dialog-close>Cancel</button>
+  <button mat-button [mat-dialog-close]="true" cdkFocusInitial>Install</button>
+</mat-dialog-actions>
