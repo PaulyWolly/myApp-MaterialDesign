@@ -14,7 +14,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Code scaffolding
 
-Run `ng generate component component-name` or the shortcut: `ng g c <component-name>` to generate a new component. 
+Run `ng generate component <component-name>` or the shortcut: `ng g c <component-name>` to generate a new component. 
 
 You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`. See Angular Schematics for info on shortcuts using `ng generate -or- ng g`. 
 
