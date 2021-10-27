@@ -10,7 +10,7 @@ Run `npm i` to gather all depenencies.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to the default port - `http://localhost:4200/` or to the new port Angular has set up for you in the event port 4200 is not available (being used). The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
